@@ -1,0 +1,603 @@
+# Nmap 5.21 scan initiated Sat Jun 29 17:49:51 2013 as: nmap -T4 -Pn -p T:8008 --script StillAlive.nse -oN result-8008.nmap -iL ../Results/8008-SAP.result-iplist.totest -d 
+--------------- Timing report ---------------
+  hostgroups: min 1, max 100000
+  rtt-timeouts: init 500, min 100, max 1250
+  max-scan-delay: TCP 10, UDP 1000, SCTP 10
+  parallelism: min 0, max 0
+  max-retries: 6, host-timeout: 0
+  min-rate: 0, max-rate: 0
+---------------------------------------------
+Nmap scan report for ABTS-KK-static-043.235.166.122.airtelbroadband.in (122.166.235.43)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 177.67.60.68
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 202.133.60.222
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 202.176.216.10
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for its.eu.modine.com (217.7.66.117)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for bb121-6-54-44.singnet.com.sg (121.6.54.44)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for host064240.metrored.net.mx (201.130.75.240)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for i08lp1.informatik.tu-muenchen.de (131.159.9.145)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 12.199.217.17
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 61.164.134.180
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 113-177-99-118.savecom.net.tw (118.99.177.113)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 122-177-99-118.savecom.net.tw (118.99.177.122)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 189.2.47.242
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 70.98.16.98
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 70.98.16.106
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 203.156.161.29
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for umbwp.olemiss.edu (130.74.7.12)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 212.156.57.114.static.turktelekom.com.tr (212.156.57.114)
+Host is up, received user-set (0.074s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 12.199.217.16
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for modemcable131.24-70-69.static.videotron.ca (69.70.24.131)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 124.153.91.211
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 036-056-213-091.ip-addr.inexio.net (91.213.56.36)
+Host is up, received user-set (0.033s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE  SERVICE REASON
+8008/tcp closed http    conn-refused
+
+Nmap scan report for host19-19-static.238-77-b.business.telecomitalia.it (77.238.19.19)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 80.68.160.29
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for f13.hcc.uni-magdeburg.de (141.44.38.29)
+Host is up, received user-set (0.0087s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for f16.hcc.uni-magdeburg.de (141.44.38.35)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r30z.hcc.uni-magdeburg.de (141.44.38.53)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r19z.hcc.uni-magdeburg.de (141.44.38.55)
+Host is up, received user-set (0.0087s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r18z.hcc.uni-magdeburg.de (141.44.38.59)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r15z.hcc.uni-magdeburg.de (141.44.38.65)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for j70z.hcc.uni-magdeburg.de (141.44.38.71)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m50z.hcc.uni-magdeburg.de (141.44.38.74)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a29z.hcc.uni-magdeburg.de (141.44.38.84)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a69z.hcc.uni-magdeburg.de (141.44.38.88)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r06z.hcc.uni-magdeburg.de (141.44.38.110)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m85z.hcc.uni-magdeburg.de (141.44.38.118)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r34z.hcc.uni-magdeburg.de (141.44.38.128)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a18z.hcc.uni-magdeburg.de (141.44.38.134)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a84z.hcc.uni-magdeburg.de (141.44.38.160)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r07z.hcc.uni-magdeburg.de (141.44.38.162)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r08z.hcc.uni-magdeburg.de (141.44.38.172)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a94z.hcc.uni-magdeburg.de (141.44.38.174)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for j60z.hcc.uni-magdeburg.de (141.44.38.180)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a81z.hcc.uni-magdeburg.de (141.44.38.184)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for j87z.hcc.uni-magdeburg.de (141.44.38.199)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m01z.hcc.uni-magdeburg.de (141.44.39.54)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a64z.hcc.uni-magdeburg.de (141.44.39.74)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r16z.hcc.uni-magdeburg.de (141.44.39.76)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r33z.hcc.uni-magdeburg.de (141.44.39.80)
+Host is up, received user-set (0.0086s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a08z.hcc.uni-magdeburg.de (141.44.39.90)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m68z.hcc.uni-magdeburg.de (141.44.39.96)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r27z.hcc.uni-magdeburg.de (141.44.39.104)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m69z.hcc.uni-magdeburg.de (141.44.39.106)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r28z.hcc.uni-magdeburg.de (141.44.39.112)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r09z.hcc.uni-magdeburg.de (141.44.39.114)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r39z.hcc.uni-magdeburg.de (141.44.39.116)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 0s
+PORT     STATE  SERVICE REASON
+8008/tcp closed http    conn-refused
+
+Nmap scan report for m41z.hcc.uni-magdeburg.de (141.44.39.118)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r20z.hcc.uni-magdeburg.de (141.44.39.122)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r05z.hcc.uni-magdeburg.de (141.44.39.152)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a15z.hcc.uni-magdeburg.de (141.44.39.170)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m21z.hcc.uni-magdeburg.de (141.44.39.174)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m66z.hcc.uni-magdeburg.de (141.44.39.178)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m03z.hcc.uni-magdeburg.de (141.44.39.180)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r11z.hcc.uni-magdeburg.de (141.44.39.186)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r12z.hcc.uni-magdeburg.de (141.44.39.188)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a54z.hcc.uni-magdeburg.de (141.44.39.194)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r32z.hcc.uni-magdeburg.de (141.44.39.198)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for f13b.hcc.uni-magdeburg.de (141.44.39.213)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for f16b.hcc.uni-magdeburg.de (141.44.39.216)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for p54955D5E.dip0.t-ipconnect.de (84.149.93.94)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 115.254.127.242
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for Static-50.140.93.111.tataidc.co.in (111.93.140.50)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for NSG-Static-132.184.71.182.airtel.in (182.71.184.132)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 200.199.123.98
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 19.160.15.62.static.jazztel.es (62.15.160.19)
+Host is up, received user-set (0.038s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 80.161.188.232
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for xe-2-1-0-763.espnqu1.dk.ip.tdc.net (80.161.188.233)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for segment-124-30.sify.net (124.30.27.18)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 204.248.54.196
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 116.6.16.72
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 113.140.81.156
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 58.218.196.218
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 173-164-58-166-colorado.hfc.comcastbusiness.net (173.164.58.166)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for its.eu.modine.com (217.7.66.116)
+Host is up, received user-set (0.023s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for nd172023.global.medtronic.COM (144.15.172.23)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for nd232022.global.medtronic.COM (144.15.232.22)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 177.67.60.68
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for 175.101.3.197
+Host is up, received user-set.
+Scanned at 2013-06-29 17:49:58 CEST for 1s
+PORT     STATE    SERVICE REASON
+8008/tcp filtered http    no-response
+
+Nmap scan report for sapeu-wdisp1.modine.com (198.40.90.22)
+Host is up, received user-set (0.026s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for sapeu-wdisp2.modine.com (198.40.90.24)
+Host is up, received user-set (0.021s latency).
+Scanned at 2013-06-29 17:49:58 CEST for 2s
+PORT     STATE SERVICE REASON
+8008/tcp open  http    syn-ack
+|_StillAlive: Finished
+
+Read from /usr/share/nmap: nmap-services.
+# Nmap done at Sat Jun 29 17:50:00 2013 -- 90 IP addresses (90 hosts up) scanned in 8.54 seconds
