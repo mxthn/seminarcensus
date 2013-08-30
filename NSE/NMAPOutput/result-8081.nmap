@@ -1,0 +1,600 @@
+# Nmap 5.21 scan initiated Sat Jun 29 17:50:28 2013 as: nmap -T4 -Pn -p T:8081 --script StillAlive.nse -oN result-8081.nmap -iL ../Results/8081-SAP.result-iplist.totest -d 
+--------------- Timing report ---------------
+  hostgroups: min 1, max 100000
+  rtt-timeouts: init 500, min 100, max 1250
+  max-scan-delay: TCP 10, UDP 1000, SCTP 10
+  parallelism: min 0, max 0
+  max-retries: 6, host-timeout: 0
+  min-rate: 0, max-rate: 0
+---------------------------------------------
+Nmap scan report for 195.5.186.38
+Host is up, received user-set (0.057s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for w2k89.bar.es.colt-isc.net (213.229.185.109)
+Host is up, received user-set (0.035s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for host150-228-110-95.serverdedicati.aruba.it (95.110.228.150)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for pd95ce5f5.dip0.t-ipconnect.de (217.92.229.245)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for ABTS-AP-Static-007.246.169.122.airtelbroadband.in (122.169.246.7)
+Host is up, received user-set (0.34s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 10s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for reverse.gdsz.cncnet.net (58.251.86.35)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for rrcs-24-227-84-98.se.biz.rr.com (24.227.84.98)
+Host is up, received user-set (0.14s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 68-188-14-250.static.stls.mo.charter.com (68.188.14.250)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 158.234.250.189
+Host is up, received user-set (0.039s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for p5098ceb3.dip0.t-ipconnect.de (80.152.206.179)
+Host is up, received user-set (0.019s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 5s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 211.24.233.6
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 12s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 120.86.184.186
+Host is up, received user-set (0.45s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 201.205.255.130
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for bacee3ef.virtua.com.br (186.206.227.239)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 200.111.140.194
+Host is up, received user-set (0.22s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for chs-wddv-dmz.entegris.com (65.172.42.17)
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for 195.57.146.5
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for service.si-consulting.pl (62.87.249.236)
+Host is up, received user-set (0.043s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for shop.giacomini.com (213.26.92.57)
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for asy132.asy223.tellcom.com.tr (213.153.223.132)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 80.122.158.133
+Host is up, received user-set (0.046s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for vendorasn.brother.com (205.134.47.28)
+Host is up, received user-set (0.091s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 190.151.56.109
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 1s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 200.72.225.218
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for Static-102.67.93.111.tataidc.co.in (111.93.67.102)
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for pd95b7f27.dip0.t-ipconnect.de (217.91.127.39)
+Host is up, received user-set (0.059s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 188.111.46.200
+Host is up, received user-set (0.049s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 192.234.246.55
+Host is up, received user-set (0.10s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for NSG-Static-132.184.71.182.airtel.in (182.71.184.132)
+Host is up, received user-set (0.34s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for f12.hcc.uni-magdeburg.de (141.44.38.27)
+Host is up, received user-set (0.0077s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for f13.hcc.uni-magdeburg.de (141.44.38.29)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for j70z.hcc.uni-magdeburg.de (141.44.38.71)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m50z.hcc.uni-magdeburg.de (141.44.38.74)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a88z.hcc.uni-magdeburg.de (141.44.38.80)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a29z.hcc.uni-magdeburg.de (141.44.38.84)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a69z.hcc.uni-magdeburg.de (141.44.38.88)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r49z.hcc.uni-magdeburg.de (141.44.38.96)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for r04z.hcc.uni-magdeburg.de (141.44.38.106)
+Host is up, received user-set (0.0077s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for m25z.hcc.uni-magdeburg.de (141.44.38.112)
+Host is up, received user-set (0.0076s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for m85z.hcc.uni-magdeburg.de (141.44.38.118)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m97z.hcc.uni-magdeburg.de (141.44.38.124)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for m98z.hcc.uni-magdeburg.de (141.44.38.126)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for r34z.hcc.uni-magdeburg.de (141.44.38.128)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a18z.hcc.uni-magdeburg.de (141.44.38.134)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a84z.hcc.uni-magdeburg.de (141.44.38.160)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r07z.hcc.uni-magdeburg.de (141.44.38.162)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m15z.hcc.uni-magdeburg.de (141.44.38.164)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for r37z.hcc.uni-magdeburg.de (141.44.38.168)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a20z.hcc.uni-magdeburg.de (141.44.38.170)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a94z.hcc.uni-magdeburg.de (141.44.38.174)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for r02z.hcc.uni-magdeburg.de (141.44.38.176)
+Host is up, received user-set (0.0082s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a81z.hcc.uni-magdeburg.de (141.44.38.184)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for j87z.hcc.uni-magdeburg.de (141.44.38.199)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m01z.hcc.uni-magdeburg.de (141.44.39.54)
+Host is up, received user-set (0.0085s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a64z.hcc.uni-magdeburg.de (141.44.39.74)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a79z.hcc.uni-magdeburg.de (141.44.39.82)
+Host is up, received user-set (0.0081s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for m46z.hcc.uni-magdeburg.de (141.44.39.86)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a08z.hcc.uni-magdeburg.de (141.44.39.90)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m68z.hcc.uni-magdeburg.de (141.44.39.96)
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a09z.hcc.uni-magdeburg.de (141.44.39.98)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a19z.hcc.uni-magdeburg.de (141.44.39.100)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for r39z.hcc.uni-magdeburg.de (141.44.39.116)
+Host is up, received user-set (0.0077s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for m41z.hcc.uni-magdeburg.de (141.44.39.118)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a58z.hcc.uni-magdeburg.de (141.44.39.126)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for r47z.hcc.uni-magdeburg.de (141.44.39.132)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for j92z.hcc.uni-magdeburg.de (141.44.39.136)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a23z.hcc.uni-magdeburg.de (141.44.39.144)
+Host is up, received user-set (0.0077s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a39z.hcc.uni-magdeburg.de (141.44.39.160)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a50z.hcc.uni-magdeburg.de (141.44.39.164)
+Host is up, received user-set (0.0079s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a15z.hcc.uni-magdeburg.de (141.44.39.170)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m21z.hcc.uni-magdeburg.de (141.44.39.174)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m66z.hcc.uni-magdeburg.de (141.44.39.178)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for m03z.hcc.uni-magdeburg.de (141.44.39.180)
+Host is up, received user-set (0.0078s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for a78z.hcc.uni-magdeburg.de (141.44.39.190)
+Host is up, received user-set (0.0077s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for a54z.hcc.uni-magdeburg.de (141.44.39.194)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for f12b.hcc.uni-magdeburg.de (141.44.39.212)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for f13b.hcc.uni-magdeburg.de (141.44.39.213)
+Host is up, received user-set (0.0083s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for aplicaciones.grupoave.com (200.69.125.44)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for mail.bautzen-it.de (193.159.239.188)
+Host is up, received user-set (0.020s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for 78-4-108-85-static.albacom.net (78.4.108.85)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for apo.brother.com (205.134.47.17)
+Host is up, received user-set (0.091s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 5s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 2-228-144-13.ip191.fastwebnet.it (2.228.144.13)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 212.174.233.161.dynamic.ttnet.com.tr (212.174.233.161)
+Host is up, received user-set (0.074s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 0s
+PORT     STATE  SERVICE         REASON
+8081/tcp closed blackice-icecap conn-refused
+
+Nmap scan report for pD9E6375C.dip0.t-ipconnect.de (217.230.55.92)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 213.21.168.129
+Host is up, received user-set (0.047s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 193.104.24.1
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE    SERVICE         REASON
+8081/tcp filtered blackice-icecap no-response
+
+Nmap scan report for 94-76-213-66.static.as29550.net (94.76.213.66)
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 2s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 221.238.232.74
+Host is up, received user-set (0.42s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 66.45.49.152
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 4s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for frwsine001.sinimplast.com.br (200.219.166.170)
+Host is up, received user-set (0.26s latency).
+Scanned at 2013-06-29 17:50:29 CEST for 3s
+PORT     STATE SERVICE         REASON
+8081/tcp open  blackice-icecap syn-ack
+|_StillAlive: Finished
+
+Read from /usr/share/nmap: nmap-services.
+# Nmap done at Sat Jun 29 17:50:41 2013 -- 90 IP addresses (90 hosts up) scanned in 12.91 seconds

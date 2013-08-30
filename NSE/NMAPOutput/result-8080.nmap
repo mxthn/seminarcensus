@@ -1,0 +1,1654 @@
+# Nmap 5.21 scan initiated Sat Jun 29 17:50:00 2013 as: nmap -T4 -Pn -p T:8080 --script StillAlive.nse -oN result-8080.nmap -iL ../Results/8080-SAP.result-iplist.totest -d 
+--------------- Timing report ---------------
+  hostgroups: min 1, max 100000
+  rtt-timeouts: init 500, min 100, max 1250
+  max-scan-delay: TCP 10, UDP 1000, SCTP 10
+  parallelism: min 0, max 0
+  max-retries: 6, host-timeout: 0
+  min-rate: 0, max-rate: 0
+---------------------------------------------
+Nmap scan report for 41.160.4.115
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 41.160.4.117
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 121.33.200.218
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 196.4.168.52
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 196.4.168.53
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 196.4.168.75
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 77.6.10.226
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for ip72-223-105-77.ph.ph.cox.net (72.223.105.77)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 113.105.8.139
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 194.209.171.41
+Host is up, received user-set (0.019s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 194.209.171.44
+Host is up, received user-set (0.019s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for host220.brother.com (205.134.47.9)
+Host is up, received user-set (0.091s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 69.195.233.186
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 69.195.235.202
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 23.29.99.199
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 218.107.47.157
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 38.101.0.75
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 213.58.154.52
+Host is up, received user-set (0.071s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for proxy01.agilos.net (213.147.16.20)
+Host is up, received user-set (0.017s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for spt.amo-inc.com (129.33.114.234)
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 217.191.160.62
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 65.83.64.2
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 95.119.209.255
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for sap-srd-01.oit.duke.edu (152.3.102.186)
+Host is up, received user-set (0.11s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for sap-srs-01.oit.duke.edu (152.3.104.80)
+Host is up, received user-set (0.11s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 59.163.77.183.static.vsnl.net.in (59.163.77.183)
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 212.38.25.149
+Host is up, received user-set (0.012s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 212.38.25.150
+Host is up, received user-set (0.012s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.27.202.210.es.colt.net (213.27.202.210)
+Host is up, received user-set (0.046s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.27
+Host is up, received user-set (0.026s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.31
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ABTS-MP-Static-036.136.168.122.airtelbroadband.in (122.168.136.36)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 58.87.33.71
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 96-33-124-24.static.kgpt.tn.charter.com (96.33.124.24)
+Host is up, received user-set (0.13s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for sapprd.capco.com.tw (203.69.86.250)
+Host is up, received user-set (0.31s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 195.5.186.38
+Host is up, received user-set (0.048s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 177-103-181-55.dsl.telesp.net.br (177.103.181.55)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 59.163.77.17.static.vsnl.net.in (59.163.77.17)
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 59.163.77.109.static.vsnl.net.in (59.163.77.109)
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 59.163.77.241.static.vsnl.net.in (59.163.77.241)
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ccc7.upol.cz (158.194.216.30)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for mx1.rosasconstrutores.pt (62.28.156.114)
+Host is up, received user-set (0.063s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.28.156.116
+Host is up, received user-set (0.068s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.28.169.132
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for mx2.rosasconstrutores.pt (62.28.187.162)
+Host is up, received user-set (0.064s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.28.187.164
+Host is up, received user-set (0.060s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 149.249.17.32
+Host is up, received user-set (0.015s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for sapsrmdev.capco.com.tw (203.69.86.122)
+Host is up, received user-set (0.33s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ILLPUN-199-173.105.static.vsnl.net.in (203.199.173.105)
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 203.228.56.189
+Host is up, received user-set (0.34s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.54.40.229
+Host is up, received user-set (0.38s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for vhost0578.dc1.co.us.compute.ihost.com (170.225.98.68)
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 71-140-176-250.ded.pacbell.net (71.140.176.250)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for vsapprd.visioneer.com (205.234.15.125)
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 65.70.154.136
+Host is up, received user-set (0.13s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for vhost0469.dc1.co.us.compute.ihost.com (170.225.97.214)
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 213.71.142.33
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 161.196.11.248
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 161.196.11.249
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 161.196.11.250
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 161.196.11.252
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 161-196-116-15.genericrev.cantv.net (161.196.116.15)
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ncsbrsjiis05-e1.jnjbrazil.com.br (148.177.88.5)
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ncsbrsjwebpv01-e7.jnjbrazil.com.br (148.177.88.31)
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for static-148-244-92-181.alestra.net.mx (148.244.92.181)
+Host is up, received user-set (0.27s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 124.106.155.171
+Host is up, received user-set (0.25s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 164.4.16.22
+Host is up, received user-set (0.037s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 213.21.168.129
+Host is up, received user-set (0.047s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.134.53.55
+Host is up, received user-set (0.020s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 192.234.246.55
+Host is up, received user-set (0.10s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for maxnet.shop.vhv.de (194.31.225.213)
+Host is up, received user-set (0.0093s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 164.4.16.22
+Host is up, received user-set (0.037s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for sapprdwg03.ci.tacoma.wa.us (131.191.254.23)
+Host is up, received user-set (0.18s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for helpdesk-canada.itelligence.com (38.112.96.158)
+Host is up, received user-set (0.11s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 212.92.196.250
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 212.92.196.253
+Host is up, received user-set (0.036s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ptr-212.118.203.178.lewtelnet-access.de (212.118.203.178)
+Host is up, received user-set (0.034s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ptr-212.118.203.179.lewtelnet-access.de (212.118.203.179)
+Host is up, received user-set (0.034s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.70.176.3
+Host is up, received user-set (0.031s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 129.35.118.240
+Host is up, received user-set (0.033s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.153.117.44
+Host is up, received user-set (0.011s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for service.fis-gmbh.de (62.154.223.12)
+Host is up, received user-set (0.026s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.180.43.150
+Host is up, received user-set (0.021s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 200.111.140.196
+Host is up, received user-set (0.22s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 217.111.201.167
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for chs-wddv-dmz.entegris.com (65.172.42.17)
+Host is up, received user-set (0.13s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for chs-wd01-dmz.entegris.com (65.172.42.20)
+Host is up, received user-set (0.13s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for IP-90-162-75.dtp.net.id (116.90.162.75)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for sapportal.fmi.com (198.176.208.148)
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 12.38.205.145
+Host is up, received user-set (0.096s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for host044.46-34-92.rev.eu.terremark.com (46.34.92.44)
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.206.247.5
+Host is up, received user-set (0.030s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.178.122.10
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 12.3.33.83
+Host is up, received user-set (0.10s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 81-208-64-155.ip.fastwebnet.it (81.208.64.155)
+Host is up, received user-set (0.021s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for spt.amo-inc.com (129.33.114.234)
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 68-188-14-250.static.stls.mo.charter.com (68.188.14.250)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 222.68.185.251
+Host is up, received user-set (0.27s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 188.111.46.200
+Host is up, received user-set (0.050s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 115.114.50.195.static-bangalore.vsnl.net.in (115.114.50.195)
+Host is up, received user-set (0.27s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 129.35.97.176
+Host is up, received user-set (0.042s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 129.35.98.1
+Host is up, received user-set (0.042s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 195.171.200.32
+Host is up, received user-set (0.036s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 121.254.140.60
+Host is up, received user-set (0.29s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for host18.193.111.190.cps.com.ar (190.111.193.18)
+Host is up, received user-set (0.26s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.28
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.32
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.44.68.210
+Host is up, received user-set (0.44s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 80.122.158.133
+Host is up, received user-set (0.035s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.159.148.52
+Host is up, received user-set (0.015s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 125.60.95.67
+Host is up, received user-set (0.33s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for www.caguas.gov.pr (196.28.49.117)
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 108.216.29.48
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for a83-161-139-23.adsl.xs4all.nl (83.161.139.23)
+Host is up, received user-set (0.052s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.26
+Host is up, received user-set (0.026s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.71.142.30
+Host is up, received user-set (0.031s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for asy71.asy171.tellcom.com.tr (213.153.171.71)
+Host is up, received user-set (0.058s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.180.43.150
+Host is up, received user-set (0.020s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 200-71-149-70.static.telcel.net.ve (200.71.149.70)
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for portal.chryslervenezuela.com.ve (200.74.222.59)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.218.186.188
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.178
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for aprov.usiminas.com.br (200.251.3.183)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for eng.usiminas.com.br (200.251.3.201)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for eng.cosipa.com.br (200.251.3.202)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for ftp.usiminasmecanica.com.br (200.251.3.203)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.204
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.205
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for www.fsfx.com.br (200.251.3.207)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.208
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.213
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.215
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.218
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.251.3.219
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 200.251.3.227
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.230
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.241
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 88.79.236.17
+Host is up, received user-set (0.032s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 202.88.150.38
+Host is up, received user-set (0.37s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for unknown.telstraglobal.net (202.126.172.234)
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.134.59.129
+Host is up, received user-set (0.27s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.138.127.251
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.138.127.252
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for dynpro.com.br (189.26.236.11)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for adsl196-167-255-206-196.adsl196-8.iam.net.ma (196.206.255.167)
+Host is up, received user-set (0.084s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 113.98.225.144
+Host is up, received user-set (0.34s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 194.185.12.111
+Host is up, received user-set (0.031s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 114.143.203.169
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for pc-86-114-0-3.aina.net (86.114.154.3)
+Host is up, received user-set (0.057s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 112.95.150.209
+Host is up, received user-set (0.40s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.72.66.253
+Host is up, received user-set (0.021s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for hv.ecopetrol.com.co (200.4.25.12)
+Host is up, received user-set (0.19s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for dynpro.netsolbox.com.br (187.1.84.18)
+Host is up, received user-set (0.26s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for pD9E6375C.dip0.t-ipconnect.de (217.230.55.92)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for ptr.cnsat.com.cn (202.46.33.194)
+Host is up, received user-set (0.28s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.106.90.166
+Host is up, received user-set (0.35s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 193.104.24.1
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 46.18.72.37
+Host is up, received user-set (0.070s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 125.18.115.35
+Host is up, received user-set (0.34s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for router1.con4pas.cz (194.228.197.221)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 62.159.148.52
+Host is up, received user-set (0.018s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 8s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for portal.stadt.wolfsburg.de (62.176.236.45)
+Host is up, received user-set (0.019s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 203.199.60.191.static.vsnl.net.in (203.199.60.191)
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 159.16.237.37
+Host is up, received user-set (0.19s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.68.225.181
+Host is up, received user-set (0.30s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 189.53.5.104
+Host is up, received user-set (0.24s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 189.53.5.105
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 189.53.5.106
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 124.124.76.4
+Host is up, received user-set (0.18s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for static-216-214-193-239.isp.broadviewnet.net (216.214.193.239)
+Host is up, received user-set (0.092s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 166.125.250.225
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 166.125.252.119
+Host is up, received user-set (0.39s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 213.61.138.213
+Host is up, received user-set (0.021s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 213.191.70.74
+Host is up, received user-set (0.028s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+
+Nmap scan report for 62.154.223.204
+Host is up, received user-set (0.024s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 62.225.181.88
+Host is up, received user-set (0.022s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for alumnos.ur.mx (148.232.1.50)
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 203.207.195.20
+Host is up, received user-set (0.44s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 15s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for zeus.ebsromania.ro (193.239.218.1)
+Host is up, received user-set (0.046s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 46.18.72.37
+Host is up, received user-set (0.061s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for vm13.hcc.uni-magdeburg.de (141.44.39.12)
+Host is up, received user-set (0.0080s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 195.77.230.169
+Host is up, received user-set (0.053s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 195.87.145.74
+Host is up, received user-set (0.070s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 189.53.5.69
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 194.156.135.194
+Host is up, received user-set (0.0084s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for rt2.tacuari.op.metrotel.metrotel.com.ar (190.12.100.11)
+Host is up, received user-set (0.26s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 166.125.250.225
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 166.125.252.119
+Host is up, received user-set (0.39s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 8s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for cli-5b7e876f.bcn.adamo.es (91.126.135.111)
+Host is up, received user-set (0.042s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for web.ae-ew.it (213.21.147.15)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 213.71.142.29
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 213.191.70.74
+Host is up, received user-set (0.028s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 200.1.118.157
+Host is up, received user-set (0.26s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for aprov.usiminas.com.br (200.251.3.182)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for www.cosipa.com.br (200.251.3.202)
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.206
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.218
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 200.251.3.219
+Host is up, received user-set (0.23s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for 222.240.205.185
+Host is up, received user-set (0.35s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 170.56.59.114
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 203.93.214.42
+Host is up, received user-set (0.31s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 37.203.56.28
+Host is up, received user-set (0.033s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for asy111.asy28.tellcom.com.tr (212.57.28.111)
+Host is up, received user-set (0.064s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 195.53.255.244
+Host is up, received user-set (0.043s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 41.76.153.74
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 41.160.4.115
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 41.160.4.116
+Host is up, received user-set (0.30s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 211.233.35.54
+Host is up, received user-set (0.29s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 86-120-118-120.rdsnet.ro (86.120.118.120)
+Host is up, received user-set (0.041s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 190.81.47.113
+Host is up, received user-set (0.18s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 204.2.238.188
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 204.2.238.190
+Host is up, received user-set (0.12s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 4s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for assigned-81-0-214-229.casablanca.cz (81.0.214.229)
+Host is up, received user-set (0.028s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ip.213.178.201.141.telemar.it (213.178.201.141)
+Host is up, received user-set (0.049s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for w2k89.bar.es.colt-isc.net (213.229.185.109)
+Host is up, received user-set (0.035s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 200.111.140.194
+Host is up, received user-set (0.22s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 58.87.33.231
+Host is up, received user-set (0.41s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 115.248.101.33
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 115.248.101.36
+Host is up, received user-set (0.16s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for i131.241.154.85.omantel.net.om (85.154.241.131)
+Host is up, received user-set (0.19s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 77.246.228.233
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 103.3.72.239
+Host is up, received user-set (0.37s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ec2-107-23-31-84.compute-1.amazonaws.com (107.23.31.84)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 194.173.218.40
+Host is up, received user-set (0.045s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 6s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 211.103.193.22
+Host is up, received user-set (0.30s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for mail5.zsah.net (91.217.245.35)
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 5s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 202.147.134.117
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for ec2-54-251-33-40.ap-southeast-1.compute.amazonaws.com (54.251.33.40)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 118-160-33-142.dynamic.hinet.net (118.160.33.142)
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 118-160-39-198.dynamic.hinet.net (118.160.39.198)
+Host is up, received user-set (0.36s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 121.241.214.71.static-kolkata.vsnl.net.in (121.241.214.71)
+Host is up, received user-set (0.30s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 9s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for ec2-107-23-60-0.compute-1.amazonaws.com (107.23.60.0)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 216.156.208.249.ptr.us.xo.net (216.156.208.249)
+Host is up, received user-set (0.17s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 13s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for static-216-214-193-231.isp.broadviewnet.net (216.214.193.231)
+Host is up, received user-set (0.15s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for 211.173.10.9
+Host is up, received user-set (0.28s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for static-94-247-217-046.catv.glattnet.ch (94.247.217.46)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for reverse.completel.net (83.145.77.67)
+Host is up, received user-set (0.049s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Nmap scan report for portal.sap-consulting.it (212.31.234.124)
+Host is up, received user-set (0.025s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 3s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for static-148-244-92-182.alestra.net.mx (148.244.92.182)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200-44-122-146.genericrev.cantv.net (200.44.122.146)
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 200.218.186.188
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 217.172.6.14
+Host is up, received user-set (0.029s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 2s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+
+Nmap scan report for 12.71.146.16
+Host is up, received user-set.
+Scanned at 2013-06-29 17:50:13 CEST for 1s
+PORT     STATE    SERVICE    REASON
+8080/tcp filtered http-proxy no-response
+
+Nmap scan report for 192.234.246.55
+Host is up, received user-set (0.10s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 7s
+PORT     STATE SERVICE    REASON
+8080/tcp open  http-proxy syn-ack
+|_StillAlive: Finished
+|_StillAlive: Finished
+
+Nmap scan report for p5099ef0c.dip0.t-ipconnect.de (80.153.239.12)
+Host is up, received user-set (0.088s latency).
+Scanned at 2013-06-29 17:50:13 CEST for 0s
+PORT     STATE  SERVICE    REASON
+8080/tcp closed http-proxy conn-refused
+
+Read from /usr/share/nmap: nmap-services.
+# Nmap done at Sat Jun 29 17:50:28 2013 -- 245 IP addresses (245 hosts up) scanned in 28.20 seconds
